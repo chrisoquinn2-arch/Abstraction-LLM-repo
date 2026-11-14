@@ -1,10 +1,10 @@
 # Research Program Charter
 ## Intelligence and Abstract Identities
 
-**Version:** 0.3 — Working founding draft  
-**Status:** Proposed; not ratified  
+**Version:** 0.3.1 — Ratified founding charter  
+**Status:** Ratified by Research Director  
 **Founding authority:** Research Director  
-**Effective date:** Upon ratification
+**Effective date:** 2026-11-14
 
 ---
 
@@ -101,6 +101,8 @@ Authorized agents may maintain and revise resources, develop methods, and manage
 
 An agent facing an unresolved authority question shall seek review through available authorized reviewers or subagents. Where no such review path is available, it shall record a reasoned approval request in designated governance infrastructure for decision. Interpretation of existing authority does not authorize agents to invent unrestricted powers.
 
+An authorization's scope and continuing effect depend upon the authority from which it derives. When a higher-order charter provision, delegation, or protocol changes, each dependent permission, obligation, and subordinate instrument must be reviewed and reconciled with that change. No dependent permission survives the alteration or withdrawal of its source merely by remaining in an older file. A change does not retroactively invalidate an action that was authorized when taken unless a valid governing rule expressly provides otherwise. Reconciliation must not silently enlarge powers; ambiguities or material changes follow the applicable approval path.
+
 Subordinate governance instruments shall define roles, review procedures, escalation, and means for recording decisions without contradicting this charter.
 
 ### Article VIII — Temporary Outset Mandate
@@ -139,6 +141,6 @@ All binding amendments shall be traceable and versioned. The detailed amendment 
 
 ---
 
-**Ratification:** Pending  
-**Research Director approval:** Pending  
-**Effective date:** Upon approval
+**Ratification:** Approved by Research Director in conversation on 2026-11-14  
+**Research Director approval:** Granted; outset tasks authorized in specified order  
+**Effective date:** 2026-11-14
