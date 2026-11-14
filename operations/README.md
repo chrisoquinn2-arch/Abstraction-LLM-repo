@@ -1,21 +1,31 @@
-# Operations — navigation contract (provisional)
+# Operations — executable research infrastructure
 
-**Parent:** [repository entry](../README.md) · **Authority:** [ratified charter](../CHARTER.md) · **Status:** architecture design, not an adopted operating system.
+**Parent:** [repository index](../README.md) · **Authority:** [ratified charter](../CHARTER.md).  
+**Status:** Bootstrap structure and design work; operational procedures **not yet validated or adopted**.
 
-## Purpose
-Work on the operational architecture: agent/human onboarding, roles, coordination, skills, finite-context operation, auditing, maintenance, and protocols. This is a *design workspace* created under the charter's temporary outset mandate, task 1; it does not undertake tasks 2–5 or scientific research.
+## Responsibility
 
-## Contents
-- [design/](design/README.md) — competing designs, operational scenarios, requirements, verification proposals, and open questions.
-- The older draft [../protocols/01-foundational-research-governance.md](../protocols/01-foundational-research-governance.md) remains unadopted; it is **not** the source from which to infer approved procedures.
+Operations concerns *how approved work is carried out*: finite-context startup, reusable skills, persistence, roles and dispatch, concurrent cooperation, working-state recovery, logging, auditing, planning implementation, and maintenance. It can propose changes to governing requirements; governance decides binding authority.
 
-## How to navigate
-Start from the repository root on a new assignment; identify the current charter and task before descending here. Read the design index before loading individual files. Do not read every sibling by default.
+## Child index
 
-## Provisional directory maintenance
-This README is the local orientation/context record: keep purpose, contents, status, authority, and known open issues consistent with child resources. On additions or moves, update links and note changes. Contradictions or better classifications may be proposed irrespective of current conventions; no proposal silently changes binding authority.
+| Directory | Purpose |
+| --- | --- |
+| [design/](design/README.md) | Existing architecture investigation, alternatives, scenarios and validation requirements |
+| [protocols/](protocols/README.md) | Operational rules once designed, verified and approved |
+| [skills/](skills/README.md) | Indexed bounded capabilities, dependencies, selection and maintenance |
+| [roles/](roles/README.md) | Persistent responsibilities, holders, dispatch and role revision |
+| [state/](state/README.md) | Current assignments, resumable work and handoff state |
+| [coordination/](coordination/README.md) | Shared work, conflicts, cross-area notices and routing |
+| [discussions/](discussions/README.md) | Practical issues and alternatives in operating the program |
+| [audits/](audits/README.md) | Operating-system consistency, integrity and maintenance audits |
+| [plans/](plans/README.md) | Authorized operating plans and dependencies |
+| [tests/](tests/README.md) | Reproducible execution/recovery/concurrency verification |
 
-A folder-wide maintenance *procedure* remains to be engineered and verified. These notes do not claim to be an approved protocol.
+## Boundary and historical material
 
-## Open design work
-- [Design index](design/README.md)
+The [root-level legacy protocols](../protocols/README.md) are *unadopted* and not copied into the new operational protocols area. The design documents under [design/](design/README.md) mix operational and governance questions; they remain intact until a reviewed separation is warranted. Do not represent a folder index as implementation or verification.
+
+## Bootstrap maintenance
+
+Start every new task from the [root](../README.md), then select relevant child contracts. Update this index when child scope or location changes; preserve links, affected state, and authority. Report ambiguous responsibilities, conflicts, obsolete assumptions, and restructuring needs rather than silently choosing one interpretation. Formal navigation, maintenance, dispatch, and recovery protocols remain to be built and tested within outset task 1.
