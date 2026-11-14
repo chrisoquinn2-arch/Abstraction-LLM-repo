@@ -1,33 +1,36 @@
 # Intelligence and Abstract Identities — Research Program
 
-**Entry point for new human or agent sessions.** Start here with any task. Establish the applicable authority and current outset stage before descending to specific work; do **not** load the entire repository.
+**Entry point for every new human or agent session.** Start here, establish the current task and authority, and descend through linked README indexes. Do not attempt to read the full repository.
 
 ## Governing status
 
 - [CHARTER.md](CHARTER.md) — **ratified founding charter v0.3.1**, effective 2026-11-14.
-- **Article VIII outset task 1 of 5** is under architecture design. The first protocol draft failed gate review and remains **unadopted**. No research claims have been formally admitted under the new program.
-- Outset tasks **2–5 have not started** and must be conducted separately, in order.
+- **Article VIII outset task 1 of 5** remains in design and infrastructure setup. No validated full operating system exists yet.
+- The original [unadopted protocol draft](protocols/README.md) failed gate review.
+- Outset tasks **2–5 have not started**; the scientific repository is structural only, without accepted knowledge.
 
-## Find the right context
+## Top-level navigation
 
-| Area | Purpose | State |
+| Area | Purpose | What to read first |
 | --- | --- | --- |
-| [operations/](operations/README.md) | How to design and eventually operate the research environment | Provisional design |
-| [operations/design/](operations/design/README.md) | Scenario analysis, alternatives, requirement provenance, design state | Active outset task 1 |
-| [operations/design/05-design-state-and-next-work.md](operations/design/05-design-state-and-next-work.md) | Short design-state handoff and unresolved decisions | Provisional |
-| [protocols/](protocols/README.md) | Older protocol draft; **not binding** | Rejected for gate readiness |
-| [CHARTER.md](CHARTER.md) | Current foundational authority | Ratified |
+| [governance/](governance/README.md) | Authority, rule design, principles, deliberation, delegation, decisions and approvals | Governance index |
+| [operations/](operations/README.md) | Operational designs, skills, roles, state, coordination, testing, audits and execution | Operations index |
+| [research/](research/README.md) | Extensible topic hierarchy and shared scientific resources | Research index; currently unpopulated |
+| [protocols/](protocols/README.md) | **Legacy unadopted draft only**, kept pending migration or archival decision | Legacy draft warning |
 
-Research resources and further governance structures will be designed under the chartered outset work, not pre-populated from old chats.
+## Bootstrap entry contract
 
-## Navigation and maintenance intent
+1. Confirm the assignment and applicable authority against the charter and current status.
+2. Navigate via the relevant parent README before loading child materials; treat indexes as maps, not evidence.
+3. Check whether instructions are adopted, draft, or discussion. The mere existence of a folder or file does not confer authority.
+4. Maintain traceable changes and handoffs; challenge any rule or index through feedback or review rather than silently replacing binding law.
 
-The intended operating architecture is recursive: every folder has an indexed README/context contract and an appropriate maintenance provision; agents begin at the root and selectively descend. Roles, cross-department feedback, authority reconciliation, multi-agent coordination, and finite-context recovery are under active design.
+These points are **orientation guidance for this bootstrap**, not a substitute for the verified startup and maintenance skills to be developed during outset task 1.
 
-**Feedback is permitted on every component**, including objections to charter or protocols. Raising or discussing a contradiction does not itself amend binding law; changes require valid authority. No global cross-department routing or approval system has yet been implemented.
+## Revisions and maintenance
 
-Git records file history, but a commit is not synonymous with approval or scientific validation. Directory restructuring must preserve pointers, provenance, and dependent authority.
+Every directory has a README describing purpose, expected resources, current state, and provisional maintenance. Update parent-child references when resources are introduced or reorganized. Report stale indexes, broken links, authority conflicts, and contradictory assumptions. All components may be challenged, including governing rules; proposing a revision is distinct from lawfully enacting it.
 
-## Current next action
+The design and verification process is tracked under [operations/design/](operations/design/README.md), with current state at [05-design-state-and-next-work](operations/design/05-design-state-and-next-work.md). Cross-cutting governance-rule design belongs under [governance/design/](governance/design/README.md); the older mixed design analysis remains in operations pending careful classification.
 
-Review the [design alternatives](operations/design/02-architecture-alternatives.md) and [verification requirements](operations/design/03-requirements-and-verification.md). They are candidates for engineering and testing, **not adopted protocols**.
+Git commits are history, **not** binding ratification or scientific verification.
