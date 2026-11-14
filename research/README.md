@@ -1,18 +1,21 @@
-# research — directory index
+# Research — future substantive inquiry
 
-**Purpose:** Scientific inquiry and its nested subject areas.  
-**Expected material:** Topics, supporting resources, studies and evidence.  
-**Status:** Bootstrap scaffold; no contents approved by creating this index.  
-**Parent:** [../README.md](../README.md) · **Authority:** [CHARTER.md](../CHARTER.md).
+**Parent:** [repository index](../README.md) · **Authority:** [ratified charter](../CHARTER.md).  
+**Status:** Directory infrastructure only. **No research knowledge has been admitted and outset tasks 2–5 have not begun.**
 
-## Context and current contents
+## Responsibility
 
-Research contents are not yet initialized under outset task 2 or 3; this index is only a structural placeholder.
+Research concerns *what questions exist and what inquiry establishes*: problem formulation, theory and relevant knowledge, candidate solutions, studies, evidence, findings and their boundaries. Epistemic scoping is distinct from selecting the next investigation, and from committing resources to a plan.
 
-No subordinate records have yet been indexed here. Entries must be added when resources are legitimately created; do not imply a capability has been implemented merely because a directory exists.
+## Child index
 
-## Navigation and maintenance (bootstrap guidance, not adopted protocol)
+| Directory | Purpose |
+| --- | --- |
+| [topics/](topics/README.md) | Recursively nested research domains, questions, studies and findings |
+| [shared-resources/](shared-resources/README.md) | Cross-topic supporting material and relevant references |
 
-A fresh agent begins at the repository root, then selects this directory through its parent index. Load only the relevant records and check their status and authority. When creating, changing, moving, or retiring contents, update this index and parent links, preserve provenance, and flag affected references or permissions. Record objections, contradictory evidence, or proposals to change this organization through the appropriate design/review route rather than silently declaring them adopted.
+## Bootstrap maintenance
 
-The full local maintenance and consolidation procedure is **not yet validated or approved**. Skills, roles, and child indexes should remain discoverable within finite context; propose subdivision or merger if navigation, cohesion, or review burden deteriorates.
+This README is a navigational placeholder only. The resource schemas, provenance contracts, validation standards and maintenance procedures will be established at their appropriate outset stages. Future topic directories should each have a parent-linked README defining purpose, contents, authority and maintenance. Provisional observations must not be conflated with accepted findings or imported solely because they appeared in a previous conversation.
+
+Agents start at the [root](../README.md). Add or move entries only with authorization and update affected parent indexes and references. Any category may be challenged or proposed for reorganization, but doing so does not itself change binding authority.
