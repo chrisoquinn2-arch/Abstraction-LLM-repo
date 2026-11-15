@@ -9,7 +9,7 @@
 
 This directory is a structural placeholder under outset task 1. It does not create or adopt a new policy, role, study or operational capability.
 
-No subordinate records have yet been indexed here. Entries must be added when resources are legitimately created; do not imply a capability has been implemented merely because a directory exists.
+No local design documents have been filed here yet. The cross-domain architectural decision is recorded in [governance decisions](../decisions/2026-11-14-four-domain-responsibility-model.md); the proposed executable test is in [operations design](../../operations/design/06-four-domain-prototype-proposal.md). Future normative-rule design should be indexed here, rather than silently mixing it with the operational implementation.
 
 ## Navigation and maintenance (bootstrap guidance, not adopted protocol)
 
