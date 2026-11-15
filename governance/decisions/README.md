@@ -15,8 +15,14 @@ This directory is a structural placeholder under outset task 1. It does not crea
 
 This is a design-decision index; the existence of a recorded direction does not make it ratified governance law.
 
+## Current architecture decision under Director review
+
+- [ADR-HN-01 — human-native GitHub workspace](2026-11-14-file-native-architecture-proposal.md): **PROPOSED**, not ratified. Covers the source of truth, platform alternatives, human and agent entry, shortcomings of an opaque runtime, and missing tests.
+- [Four-domain responsibility model](2026-11-14-four-domain-responsibility-model.md): earlier director-endorsed design direction, not a formally enacted operating charter.
+
 ## Navigation and maintenance (bootstrap guidance, not adopted protocol)
 
 A fresh agent begins at the repository root, then selects this directory through its parent index. Load only the relevant records and check their status and authority. When creating, changing, moving, or retiring contents, update this index and parent links, preserve provenance, and flag affected references or permissions. Record objections, contradictory evidence, or proposals to change this organization through the appropriate design/review route rather than silently declaring them adopted.
 
 The full local maintenance and consolidation procedure is **not yet validated or approved**. Skills, roles, and child indexes should remain discoverable within finite context; propose subdivision or merger if navigation, cohesion, or review burden deteriorates.
+

@@ -23,6 +23,15 @@
 
 All folders have README contracts. A folder may be revised, split, merged or retired, subject to preserving references and review. Challenges to any law or design can be raised; proposing is not enacting. Git records history; a commit does not itself ratify a policy.
 
+## Participatory tooling and verification
+
+- [Browser issue forms](.github/ISSUE_TEMPLATE/README.md) — human discussion, challenge, work and handoff
+- [Automation index](.github/README.md) — optional GitHub Actions for verification and Markdown intake
+- [Read-only maintenance verifier](tools/README.md) and [unit tests](tests/README.md)
+- [Forum dropbox](forum/dropbox/README.md) — create a Markdown file to start a discussion
+- [Research protocol placeholders](research/protocols/README.md) — separate from operational and governance rules
+
 ## Status
 This branch is an **integrated prototype proposed for audit**. Existing [legacy draft](protocols/README.md) remains unadopted. The other Work instance's SQLite-based draft is separate and is not incorporated.
+
 

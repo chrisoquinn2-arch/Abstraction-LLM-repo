@@ -6,6 +6,8 @@ Research owns intellectually justified directions, questions, evidence, experime
 ## Local index
 - [topics/](topics/README.md) — recursive topic hierarchy (not populated)
 - [shared-resources/](shared-resources/README.md) — reusable sources (not populated)
+- [roles/](roles/README.md) — domain role contracts and gaps
+- [protocols/](protocols/README.md) — separate scientific-method standards, not yet adopted
 - [skills/](skills/README.md) — research-specific bounded workflows
 - [tests/](tests/README.md) — methodology tests and epistemic validation requirements
 - [discussions/](discussions/README.md) — research conversations linked to shared forum
@@ -15,4 +17,5 @@ Research owns intellectually justified directions, questions, evidence, experime
 
 ## Scope and maintenance
 Outset Task 1 is underway; resource initialization, opening knowledge admission, problem-worthiness and substantive research follow later separate gates. A historical recollection is not a research finding. A new topic must have a local README and source-linked status; splits/merges preserve history and limits. Raise methodological objections via the Forum without waiting for a role assignment.
+
 

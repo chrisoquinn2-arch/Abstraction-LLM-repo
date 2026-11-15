@@ -5,6 +5,7 @@ Governance asks what should govern the institution, why, who may decide, and how
 
 ## Local index
 - [decisions/](decisions/README.md) — status-labeled decisions, rationale, alternatives and applicable authority
+- [roles/](roles/README.md) — governance stewardship and authorized reviewers
 - [design/](design/README.md) — comparative architectures and governing-rule design
 - [protocols/](protocols/README.md) — proposed governance-specific review and amendment procedures
 - [skills/](skills/README.md) — bounded guidance for assessing and recording a decision
@@ -17,4 +18,5 @@ Governance asks what should govern the institution, why, who may decide, and how
 **How to participate:** Use [forum](../forum/README.md) to challenge an instrument, or propose a changed Markdown document through a PR. Ordinary edits are not constitutional amendment merely by being committed.
 
 **Maintenance:** Maintain this child index and linked decision status; reconcile subordinate permissions/protocols if an authority source changes (Charter VII). Retain rejected objections and prior versions; challenge any inconsistency via the Forum.
+
 

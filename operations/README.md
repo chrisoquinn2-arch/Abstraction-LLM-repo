@@ -3,6 +3,7 @@
 Operations determines operational truth: feasibility, infrastructure behavior, costs, agent/human workflows, maintenance, and observed progress. Operational convenience does not give the power to amend governance.
 
 ## Context and children
+- [roles/](roles/README.md) — persistent responsibilities, distinct from holders
 - [protocols/](protocols/README.md) — startup, folder lifecycle, evidence/links, practical change handling
 - [skills/](skills/README.md) — bounded procedure selection and maintenance
 - [tests/](tests/README.md) — executable structural and behavioral verification
@@ -17,4 +18,5 @@ Operations determines operational truth: feasibility, infrastructure behavior, c
 
 ## Work and maintenance
 Use root-first [startup](protocols/startup.md), then relevant local contracts. Human editors can use GitHub's browser editor, PR review and Issues without installing Python. On file edits or moves update local/parent indexes and affected links; use CI verifier for basic errors, plus human review for semantic staleness and authority changes. An unfinished task belongs in a linked GitHub Issue with handoff and next action. Preserve unverified findings.
+
 
