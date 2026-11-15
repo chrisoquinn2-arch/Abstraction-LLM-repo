@@ -13,6 +13,8 @@ The earlier draft attempted to write policy without first engineering the enviro
 | [03-requirements-and-verification.md](03-requirements-and-verification.md) | To distinguish stakeholder requirements from candidate designs and determine what must be tested |
 | [04-skill-and-folder-lifecycle.md](04-skill-and-folder-lifecycle.md) | To design bounded skill loading, directory maintenance, decomposition, and migration |
 | [05-design-state-and-next-work.md](05-design-state-and-next-work.md) | To recover current design status and see the *proposed* next investigations |
+| [06-four-domain-prototype-proposal.md](06-four-domain-prototype-proposal.md) | To review the first proposed, still unexecuted four-domain coordination and handoff test |
+| [Governance decision record](../../governance/decisions/2026-11-14-four-domain-responsibility-model.md) | To understand why executive/coordination was added as a fourth top-level responsibility |
 
 ## Context and authority
 - This folder may document critiques of, or proposals contradicting, existing rules.
