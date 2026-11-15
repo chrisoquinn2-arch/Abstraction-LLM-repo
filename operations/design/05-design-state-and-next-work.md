@@ -10,6 +10,12 @@
 - The director authorized a design-first approach to outset task 1 and requires the five outset items to proceed separately in order.
 - Design inputs: root-first agent startup; README/context/maintenance expectations for each folder; recursive directory and skill systems; persistent open-ended roles; role dispatch/construction/revision; cross-department communication; a feedback/revision route for *every* component, including challenges to higher-order law.
 
+## New provisional design direction (2026-11-14)
+
+The director identified a missing top-level **Executive / Coordination** responsibility accountable for routing information, context, cross-domain issues, role gaps, and dispatch. See the [four-domain responsibility record](../../governance/decisions/2026-11-14-four-domain-responsibility-model.md). Governance, executive/coordination, operations and research are distinct cooperating intellectual responsibilities; this design is **not yet an approved operating system**.
+
+A concrete [four-domain prototype P0](06-four-domain-prototype-proposal.md) has been proposed for director review. It has not been implemented or tested. Its baseline comparison and context-loss/authority-change injections are intended to test whether the responsibility model actually improves robustness relative to a simpler arrangement.
+
 ## What has *not* been established
 No architecture has been selected, no protocol has been validated or adopted, no role dispatcher has been implemented, and no scientific research knowledge has been admitted. Tabletop scenarios are not empirical evidence.
 
