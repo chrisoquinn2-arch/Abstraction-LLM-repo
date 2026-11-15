@@ -1,13 +1,11 @@
-# Operational protocols — scaffold
+# Operational protocols — prototype-only, not approved law
+**Parent:** [operations](../README.md) · **Authority:** [charter](../../CHARTER.md) and governance review · **Status:** trial runbooks.
 
-**Parent:** [operations](../README.md) · **Authority:** [CHARTER.md](../../CHARTER.md) · **Status:** index only; **no adopted operational protocol is present here**.
+- [startup.md](startup.md) — human/agent entry and cold recovery
+- [folder-maintenance.md](folder-maintenance.md) — recursive indexes, moves, split/merge and link repair
+- [record-and-handoff.md](record-and-handoff.md) — state, provenance, interruption and task reporting
 
-## Purpose and contents
+These concern **execution**, not normative rules. [Governance protocols](../../governance/protocols/README.md) separately define authority/review. If a protocol cannot be followed, record failure in the [Forum](../../forum/README.md); propose a revision, don't silently redefine law.
 
-This directory is reserved for task-executable operational protocols once they are designed, compared with alternatives, verified, and approved. Later indexes should list when each protocol applies, which skills realize it, authority, and version/status.
+Maintenance: update index, version/status and dependencies when any runbook changes. Verify with relevant tests and record what remains unproved.
 
-The earlier failed draft is preserved separately at [legacy protocols](../../protocols/README.md). Its presence does not impose operative standards.
-
-## Maintenance (bootstrap guidance)
-
-Start at the repository root and navigate through the parent index. On addition, revision, splitting, merger, or retirement, update this index, dependents, and status references. Record objections and proposals, including contradictions with approved rules, without silently presenting them as approved. A verified maintenance procedure is not yet available.

@@ -1,18 +1,8 @@
-# state — directory index
+# Operational state — human/agent handoffs
+**Parent:** [operations](../README.md) · **Status:** navigational index.
+Actual active task and comment history live in [GitHub Issues](https://github.com/chrisoquinn2-arch/Abstraction-LLM-repo/issues); current proposed architecture at [ADR-HN-01](../../governance/decisions/2026-11-14-file-native-architecture-proposal.md). [Executive state](../../executive/state/README.md) tracks routing responsibility.
 
-**Purpose:** Current operational state and handoff materials.  
-**Expected material:** Active assignments, resumable work and links to underlying records.  
-**Status:** Bootstrap scaffold; no contents approved by creating this index.  
-**Parent:** [../README.md](../README.md) · **Authority:** [CHARTER.md](../../CHARTER.md).
+Do not duplicate a canonical ledger in this page. When a task pauses, add a handoff with evidence links and next step to its Issue. If a role leaves, next holder starts at root and recovers task from the same records.
 
-## Context and current contents
+Maintenance: highlight unresolved blocking infrastructure issues and relevant PRs, preserving source links; report stale summaries via [Forum](../../forum/README.md).
 
-This directory is a structural placeholder under outset task 1. It does not create or adopt a new policy, role, study or operational capability.
-
-No subordinate records have yet been indexed here. Entries must be added when resources are legitimately created; do not imply a capability has been implemented merely because a directory exists.
-
-## Navigation and maintenance (bootstrap guidance, not adopted protocol)
-
-A fresh agent begins at the repository root, then selects this directory through its parent index. Load only the relevant records and check their status and authority. When creating, changing, moving, or retiring contents, update this index and parent links, preserve provenance, and flag affected references or permissions. Record objections, contradictory evidence, or proposals to change this organization through the appropriate design/review route rather than silently declaring them adopted.
-
-The full local maintenance and consolidation procedure is **not yet validated or approved**. Skills, roles, and child indexes should remain discoverable within finite context; propose subdivision or merger if navigation, cohesion, or review burden deteriorates.

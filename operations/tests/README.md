@@ -1,18 +1,23 @@
-# tests — directory index
+# Institution verification — executable checks and integration cases
+**Parent:** [operations](../README.md) · **Status:** mixed: structural tests executable; live multi-actor exercises not yet certified.
 
-**Purpose:** Verification of startup, cooperation, recovery and maintenance.  
-**Expected material:** Test scenarios, runs, outcomes and limitations.  
-**Status:** Bootstrap scaffold; no contents approved by creating this index.  
-**Parent:** [../README.md](../README.md) · **Authority:** [CHARTER.md](../../CHARTER.md).
+## Run locally (optional)
+`python3 tools/institution_audit.py check .`
+`python3 -m unittest discover -s tests -v`
 
-## Context and current contents
+Or inspect the [GitHub Actions CI](../../.github/workflows/institution-verify.yml) on a PR. The verifier checks local Markdown links, README presence/index relationships, role/decision required fields, and issue template completeness. It is **not** evidence of human usability, lawful authority or scientific correctness.
 
-This directory is a structural placeholder under outset task 1. It does not create or adopt a new policy, role, study or operational capability.
+## Adversarial exercises to record in PR/Issue evidence
+1. Fresh human with GitHub browser: find department, open thread, edit a file, inspect decision history.
+2. Fresh agent using only repo + task Issue: locate scope, read objections and leave an effective handoff.
+3. Human submits wrong-domain Markdown post; executive identifies multiple affected roles and tracks acknowledgement.
+4. Contest a closed discussion; prove new challenge remains visible rather than being discarded.
+5. Two authors edit the same file; PR conflict, independent contributions and resolution preserve both grounds.
+6. Revise a governance delegation mid-task; enumerate dependent files, roles and active work and block obsolete permission.
+7. Move a nested folder; repair parent links and old references; verifier reports missing links before correction.
+8. Research exercise: propose experiment, distinguish evidence from interpretation, retain rejected alternative.
+9. Role holder disappears; new person/agent resumes solely through GitHub. Observe elapsed time and missed context.
+10. Stress: many issues and limited agent context; assess triage backlog, human attention and costs.
 
-No subordinate records have yet been indexed here. Entries must be added when resources are legitimately created; do not imply a capability has been implemented merely because a directory exists.
+Record exact Git revision, setup, actors, stimuli, evidence, outputs, defects and limitations. A successfully authored test document is not a successfully observed test. Human intervention and browser access must be recorded explicitly.
 
-## Navigation and maintenance (bootstrap guidance, not adopted protocol)
-
-A fresh agent begins at the repository root, then selects this directory through its parent index. Load only the relevant records and check their status and authority. When creating, changing, moving, or retiring contents, update this index and parent links, preserve provenance, and flag affected references or permissions. Record objections, contradictory evidence, or proposals to change this organization through the appropriate design/review route rather than silently declaring them adopted.
-
-The full local maintenance and consolidation procedure is **not yet validated or approved**. Skills, roles, and child indexes should remain discoverable within finite context; propose subdivision or merger if navigation, cohesion, or review burden deteriorates.
