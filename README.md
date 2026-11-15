@@ -1,36 +1,28 @@
-# Intelligence and Abstract Identities — Research Program
+# Intelligence and Abstract Identities — Research Institution
+**Start here for every session.** [Charter v0.3.1](CHARTER.md) is ratified. **Article VIII outset task 1 is still in progress.** Other outset tasks are not yet authorized as completed; no scientific knowledge has been formally admitted.
 
-**Entry point for every new human or agent session.** Start here, establish the current task and authority, and descend through linked README indexes. Do not attempt to read the full repository.
-
-## Governing status
-
-- [CHARTER.md](CHARTER.md) — **ratified founding charter v0.3.1**, effective 2026-11-14.
-- **Article VIII outset task 1 of 5** remains in design and infrastructure setup. No validated full operating system exists yet.
-- The original [unadopted protocol draft](protocols/README.md) failed gate review.
-- Outset tasks **2–5 have not started**; the scientific repository is structural only, without accepted knowledge.
-
-## Top-level navigation
-
-| Area | Purpose | What to read first |
+## Choose where to work
+| Domain / interface | Primary responsibility | Entry |
 | --- | --- | --- |
-| [governance/](governance/README.md) | Authority, rule design, principles, deliberation, delegation, decisions and approvals | Governance index |
-| [operations/](operations/README.md) | Operational designs, skills, roles, state, coordination, testing, audits and execution | Operations index |
-| [research/](research/README.md) | Extensible topic hierarchy and shared scientific resources | Research index; currently unpopulated |
-| [protocols/](protocols/README.md) | **Legacy unadopted draft only**, kept pending migration or archival decision | Legacy draft warning |
+| Governance | Ideals, reasons, lawful rule creation and self-revision | [governance/](governance/README.md) |
+| Executive | Context transfer, ownership, dispatch and cross-domain routing | [executive/](executive/README.md) |
+| Operations | Workflows, implementation, infrastructure, maintenance and costs | [operations/](operations/README.md) |
+| Research | Intellectual inquiry, interpretation and scientific progress | [research/](research/README.md) |
+| Shared forum | Human + agent discussions, questions, challenges, notices | [forum/](forum/README.md) |
+| Work history | Branch discussions, code/document change reviews | [Pull requests](https://github.com/chrisoquinn2-arch/Abstraction-LLM-repo/pulls) |
 
-## Bootstrap entry contract
+## The entry and operating model
+- [ARCHITECTURE.md](ARCHITECTURE.md) — prototype platform choice, source of truth, interactions and limits.
+- [AGENTS.md](AGENTS.md) — bounded startup and interruption contract.
+- [Governance architecture decision](governance/decisions/2026-11-14-file-native-architecture-proposal.md) — why this shared file/issue/PR model is being tested; **proposal, not approved law**.
+- [Executive state](executive/state/README.md) — active roles and discoverable work, linked to GitHub Issues.
+- [Forum](forum/README.md) — how to post a human- or agent-authored discussion and obtain a trackable response.
+- [Operations tests](operations/tests/README.md) — how to verify structure and behavior, with limitations.
 
-1. Confirm the assignment and applicable authority against the charter and current status.
-2. Navigate via the relevant parent README before loading child materials; treat indexes as maps, not evidence.
-3. Check whether instructions are adopted, draft, or discussion. The mere existence of a folder or file does not confer authority.
-4. Maintain traceable changes and handoffs; challenge any rule or index through feedback or review rather than silently replacing binding law.
+**For humans:** no CLI/database is required for normal navigation, reading, comments, discussion and edits through GitHub. **For agents:** use the same canonical records through supported GitHub tools. The optional validator is for maintenance, not a prerequisite to participation.
 
-These points are **orientation guidance for this bootstrap**, not a substitute for the verified startup and maintenance skills to be developed during outset task 1.
+All folders have README contracts. A folder may be revised, split, merged or retired, subject to preserving references and review. Challenges to any law or design can be raised; proposing is not enacting. Git records history; a commit does not itself ratify a policy.
 
-## Revisions and maintenance
+## Status
+This branch is an **integrated prototype proposed for audit**. Existing [legacy draft](protocols/README.md) remains unadopted. The other Work instance's SQLite-based draft is separate and is not incorporated.
 
-Every directory has a README describing purpose, expected resources, current state, and provisional maintenance. Update parent-child references when resources are introduced or reorganized. Report stale indexes, broken links, authority conflicts, and contradictory assumptions. All components may be challenged, including governing rules; proposing a revision is distinct from lawfully enacting it.
-
-The design and verification process is tracked under [operations/design/](operations/design/README.md), with current state at [05-design-state-and-next-work](operations/design/05-design-state-and-next-work.md). The proposed **fourth Executive/Coordination domain** is recorded as a [provisional design direction](governance/decisions/2026-11-14-four-domain-responsibility-model.md), and [prototype P0](operations/design/06-four-domain-prototype-proposal.md) awaits review. No executive folder or dispatcher has yet been installed. Cross-cutting governance-rule design belongs under [governance/design/](governance/design/README.md); the older mixed design analysis remains in operations pending careful classification.
-
-Git commits are history, **not** binding ratification or scientific verification.

@@ -1,27 +1,20 @@
-# Governance — authority and institutional design
+# Governance — principles, decisions, institutional revision
+**Parent:** [root](../README.md) · **Authority:** [ratified charter](../CHARTER.md). **Status:** prototype contracts below are proposed, not ratified.
 
-**Parent:** [repository index](../README.md) · **Authority:** [ratified charter](../CHARTER.md).  
-**Status:** Bootstrap indexed structure, not a completed governance system.
+Governance asks what should govern the institution, why, who may decide, and how the institution—including this governance—is reviewed and changed. Governance is accountable for the *reasons and legitimacy* of governing rules, not for performing every operational procedure.
 
-## Responsibility
+## Local index
+- [decisions/](decisions/README.md) — status-labeled decisions, rationale, alternatives and applicable authority
+- [design/](design/README.md) — comparative architectures and governing-rule design
+- [protocols/](protocols/README.md) — proposed governance-specific review and amendment procedures
+- [skills/](skills/README.md) — bounded guidance for assessing and recording a decision
+- [tests/](tests/README.md) — authority/appeal/reconciliation verification cases
+- [reviews/](reviews/README.md) — review requests, audit objections and their disposition
+- [delegations/](delegations/README.md) — grants and source authority
+- [discussions/](discussions/README.md) — governance conversation entry links
+- [principles/](principles/README.md) — principles, qualifications and critiques
 
-Governance concerns *what should bind the program, why, under whose authority, and how rules and powers are questioned, revised and approved*. It is distinct from the engineering of their execution, and distinct from substantive scientific claims.
+**How to participate:** Use [forum](../forum/README.md) to challenge an instrument, or propose a changed Markdown document through a PR. Ordinary edits are not constitutional amendment merely by being committed.
 
-## Child index
+**Maintenance:** Maintain this child index and linked decision status; reconcile subordinate permissions/protocols if an authority source changes (Charter VII). Retain rejected objections and prior versions; challenge any inconsistency via the Forum.
 
-| Directory | Purpose |
-| --- | --- |
-| [design/](design/README.md) | Rationale, comparisons and verification of governing-rule designs |
-| [discussions/](discussions/README.md) | Objections, deliberation and alternatives on governance questions |
-| [principles/](principles/README.md) | Binding principles, their interpretations and proposed refinements |
-| [decisions/](decisions/README.md) | Decisions, rationale, status and effects |
-| [delegations/](delegations/README.md) | Authority grants, dependencies and changes |
-| [reviews/](reviews/README.md) | Approval requests, reviews, challenges and dispositions |
-
-## Status and open boundaries
-
-Only the charter is currently ratified. The governance folders are placeholders and do **not** constitute enacted delegation, a formal decision registry, or an operating approval queue. The previous architecture analysis includes cross-cutting governance concerns in [operations/design/](../operations/design/README.md). Reclassify those records **after** discussing which portions are normative versus executable; do not duplicate or move them without link preservation.
-
-## Bootstrap maintenance and feedback
-
-A new agent starts at the [root index](../README.md), then uses this page to select a child. On changes to children, maintain this index and relevant cross-links; check for affected authority dependencies. Anyone may document a proposed objection or change, including one contradicting existing law, but such material remains nonbinding until approved under the charter. A dedicated, verified folder-maintenance skill is still pending development.
