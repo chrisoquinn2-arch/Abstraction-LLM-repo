@@ -20,3 +20,7 @@ The full local maintenance and consolidation procedure is **not yet validated or
 ## Pending architecture review
 
 - [Shared human/agent workspace options](2026-11-14-shared-workspace-options.md) — **proposed platform trial only**, [issue #4](https://github.com/chrisoquinn2-arch/Abstraction-LLM-repo/issues/4). No operating code or institutional authority is approved by this link.
+
+## Proposed review workflow
+
+- [Parallel work, review, and reopening](2026-11-14-parallel-review-contract.md) — **proposed**, with discussion and rationale in [Issue #6](https://github.com/chrisoquinn2-arch/Abstraction-LLM-repo/issues/6). It does not enact procedures or authorize merges.
