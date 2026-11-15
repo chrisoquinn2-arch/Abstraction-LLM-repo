@@ -16,3 +16,7 @@ No local design documents have been filed here yet. The cross-domain architectur
 A fresh agent begins at the repository root, then selects this directory through its parent index. Load only the relevant records and check their status and authority. When creating, changing, moving, or retiring contents, update this index and parent links, preserve provenance, and flag affected references or permissions. Record objections, contradictory evidence, or proposals to change this organization through the appropriate design/review route rather than silently declaring them adopted.
 
 The full local maintenance and consolidation procedure is **not yet validated or approved**. Skills, roles, and child indexes should remain discoverable within finite context; propose subdivision or merger if navigation, cohesion, or review burden deteriorates.
+
+## Pending architecture review
+
+- [Shared human/agent workspace options](2026-11-14-shared-workspace-options.md) — **proposed platform trial only**, [issue #4](https://github.com/chrisoquinn2-arch/Abstraction-LLM-repo/issues/4). No operating code or institutional authority is approved by this link.
