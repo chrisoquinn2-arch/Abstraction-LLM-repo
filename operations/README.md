@@ -12,6 +12,7 @@ Operations concerns *how approved work is carried out*: finite-context startup, 
 | Directory | Purpose |
 | --- | --- |
 | [design/](design/README.md) | Existing architecture investigation, alternatives, scenarios and validation requirements |
+| [institution/](institution/README.md) | Runnable exercise ledger and worker entry point |
 | [protocols/](protocols/README.md) | Operational rules once designed, verified and approved |
 | [skills/](skills/README.md) | Indexed bounded capabilities, dependencies, selection and maintenance |
 | [roles/](roles/README.md) | Persistent responsibilities, holders, dispatch and role revision |

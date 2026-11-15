@@ -12,6 +12,7 @@ Research concerns *what questions exist and what inquiry establishes*: problem f
 | Directory | Purpose |
 | --- | --- |
 | [topics/](topics/README.md) | Recursively nested research domains, questions, studies and findings |
+| [skills/](skills/README.md) | Research procedures for the isolated exercise |
 | [shared-resources/](shared-resources/README.md) | Cross-topic supporting material and relevant references |
 
 ## Bootstrap maintenance

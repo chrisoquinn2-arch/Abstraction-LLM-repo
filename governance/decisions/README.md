@@ -11,6 +11,8 @@ This directory is a structural placeholder under outset task 1. It does not crea
 
 ## Records
 
+- [Institutional prototype construction decision](2026-11-14-institutional-prototype.md) — proposed exercise design with rationale and tradeoffs.
+
 - [2026-11-14 four-domain responsibility model](2026-11-14-four-domain-responsibility-model.md) — **provisional design direction**, not binding delegated authority or an approved operating protocol. Records why executive/coordination was added and what still needs testing.
 
 This is a design-decision index; the existence of a recorded direction does not make it ratified governance law.

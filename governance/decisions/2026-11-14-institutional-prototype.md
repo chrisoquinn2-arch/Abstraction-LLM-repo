@@ -1,0 +1,18 @@
+# Institutional prototype construction decision
+
+**Status:** Engineering decisions for an isolated Outset Task 1 exercise. **Appointing authority:** Research Director's instruction to build the working prototype and record the design through Governance. [Charter Articles V–X](../../CHARTER.md) govern the real program. The Director retains gate approval.
+
+| Decision | Reason | Alternative and tradeoff |
+| --- | --- | --- |
+| Give four domains continuing responsibility, with Executive accountable for routing and unowned work | An objection can cross several areas while one owner remains answerable for its delivery. The receiving domain retains substantive judgment. | Peer routing alone gives each area more autonomy and makes unowned work harder to detect. Prototype routing is centralized in the queue, with multiple authorized executive holders. |
+| Keep program rules and rationale in Governance, executable methods with their domains, and cross-domain discussion in one forum | A rule can be challenged while its implementers continue using the effective revision. Decision records make the reason and evidence inspectable. | A single protocol book simplifies discovery initially and couples revisions across different domains. Local indexes and dependency references support selective reading. |
+| Use one local transactional ledger and keep source documents and procedures in Git | Leasing, decisions, history and reconciliation must agree after interruption. Git remains the home of the real charter and reviewable implementation. | Git-only runtime records would travel easily but require resolving conflicting updates and cross-record transactions. A network service would support separate hosts at higher operating cost. |
+| Give roles persistent missions and interpretations; issue separately versioned delegations and time-limited task leases | A role survives rotation. A resumed worker can check current authority, what happened and what is still open. | Long-lived implicit assignments save bookkeeping but obscure ownership after restart and can retain stale authority. |
+| Make domain review and approval explicit for consequential changes, with a Director decision for standards and delegations inside the exercise | A challenge or favorable comment can never change the effective rule by itself. A subsequent grant or role change invalidates affected execution authority. | Broad automatic promotion would reduce wait time at the cost of losing the distinction between technical review and authority to bind. |
+| Exercise only isolated datasets and preserve founding conversation context as historical | Evaluation can expose institutional defects without promoting fictional evidence or starting substantive research. | Using a live investigation would mix setup failures with scientific judgments and move into later outset work. |
+
+Read the [prototype governing contract](../protocols/README.md), [interaction and review design](../design/institutional-prototype.md), and [runtime guide](../../operations/institution/README.md) for the executable consequences. The earlier [P0 proposal](../../operations/design/06-four-domain-prototype-proposal.md) is retained for provenance as a candidate component test; this record governs the replacement prototype's design scope.
+
+## Reconsideration
+
+Any participant may challenge this design through the shared forum by naming this record, the observed failure and affected responsibilities. Executive owns receipt and routing. Governance owns disposition when the challenge changes institutional rules. Record revised rationale and dependencies here or in a superseding decision. Inspect the test evidence before adopting any mechanism for the real program.

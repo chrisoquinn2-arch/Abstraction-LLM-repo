@@ -11,10 +11,14 @@
 
 ## Top-level navigation
 
+**Prototype review branch.** Start the [executable institutional exercise](operations/institution/README.md) from this root. Read the [Governance review request](governance/reviews/2026-11-14-institutional-prototype-review-request.md) for design status and adoption authority.
+
 | Area | Purpose | What to read first |
 | --- | --- | --- |
 | [governance/](governance/README.md) | Authority, rule design, principles, deliberation, delegation, decisions and approvals | Governance index |
 | [operations/](operations/README.md) | Operational designs, skills, roles, state, coordination, testing, audits and execution | Operations index |
+| [executive/](executive/README.md) | Routing, coordination, priority and dispatch | Executive index |
+| [forum/](forum/README.md) | Cross-domain threads and challenges | Shared forum |
 | [research/](research/README.md) | Extensible topic hierarchy and shared scientific resources | Research index; currently unpopulated |
 | [protocols/](protocols/README.md) | **Legacy unadopted draft only**, kept pending migration or archival decision | Legacy draft warning |
 

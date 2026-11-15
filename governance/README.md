@@ -17,6 +17,8 @@ Governance concerns *what should bind the program, why, under whose authority, a
 | [decisions/](decisions/README.md) | Decisions, rationale, status and effects |
 | [delegations/](delegations/README.md) | Authority grants, dependencies and changes |
 | [reviews/](reviews/README.md) | Approval requests, reviews, challenges and dispositions |
+| [protocols/](protocols/README.md) | Isolated prototype governing contract for review |
+| [skills/](skills/README.md) | How to review proposals and reconcile authority in the exercise |
 
 ## Status and open boundaries
 

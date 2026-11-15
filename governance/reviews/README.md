@@ -11,6 +11,8 @@ This directory is a structural placeholder under outset task 1. It does not crea
 
 ## Indexed review material
 
+- [Institutional prototype review request](2026-11-14-institutional-prototype-review-request.md) — open request to the independent auditor.
+
 - [Independent prototype audit brief — 2026-11-14](2026-11-14-independent-prototype-audit-brief.md): Advisory requirements and verification concerns for the Work-mode integrated research-institution prototype. **Not an audit of Work's outputs, approved governance, or gate approval.**
 
 New review artifacts must be indexed with their authority, status and disposition. This directory does not yet contain an implemented approval queue or review automation.
