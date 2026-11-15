@@ -1,0 +1,41 @@
+name: "Discussion / notice"
+description: "Share observations, ask questions, or notify multiple areas. All participants welcome."
+title: "[forum] "
+body:
+  - type: markdown
+    attributes:
+      value: "A wrong or missing domain is acceptable. Executive owns routing, not the scientific or constitutional judgment."
+  - type: dropdown
+    id: domain
+    attributes:
+      label: "Initial department guess (revisable)"
+      options:
+        - "Unassigned / unknown"
+        - "Governance"
+        - "Executive"
+        - "Operations"
+        - "Research"
+        - "Multiple departments"
+    validations:
+      required: true
+  - type: input
+    id: affected
+    attributes:
+      label: "Affected topic, document or issue (if known)"
+      placeholder: "Link or repository path; may be left blank"
+  - type: textarea
+    id: contribution
+    attributes:
+      label: "Contribution / question"
+      description: "Distinguish direct observations, assumptions, interpretations and requests."
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: "References and limitations"
+  - type: textarea
+    id: requested
+    attributes:
+      label: "Requested response or next step"
+

@@ -1,0 +1,33 @@
+name: "Challenge / objection"
+description: "Challenge any rule, role, decision, method, or the charter itself."
+title: "[challenge] "
+body:
+  - type: markdown
+    attributes:
+      value: "A challenge may contradict current law. Opening it does NOT itself amend the rule. Executive must route and preserve the objection."
+  - type: input
+    id: target
+    attributes:
+      label: "Target rule, file, decision, or role (or unknown)"
+      placeholder: "Path, issue/PR URL, or explanation"
+    validations:
+      required: true
+  - type: textarea
+    id: objection
+    attributes:
+      label: "Objection and reasoning"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "Supporting observations and alternative interpretations"
+  - type: textarea
+    id: consequence
+    attributes:
+      label: "Consequence if the challenge is justified"
+  - type: input
+    id: response
+    attributes:
+      label: "Review or response requested"
+

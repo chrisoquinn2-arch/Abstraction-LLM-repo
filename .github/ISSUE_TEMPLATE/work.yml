@@ -1,0 +1,40 @@
+name: "Work / handoff"
+description: "Create a durable work item, request assistance or record an interrupted task."
+title: "[work] "
+body:
+  - type: dropdown
+    id: domain
+    attributes:
+      label: "Primary responsibility (tentative)"
+      options:
+        - "Unassigned / Executive triage"
+        - "Governance"
+        - "Executive"
+        - "Operations"
+        - "Research"
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: "Persistent role or responsibility"
+      placeholder: "Role ID or unassigned"
+  - type: textarea
+    id: objective
+    attributes:
+      label: "Objective and authorized scope"
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: "Canonical file/PR links, source versions and evidence"
+  - type: textarea
+    id: progress
+    attributes:
+      label: "Current state, blockers and unresolved interpretations"
+  - type: textarea
+    id: next
+    attributes:
+      label: "Next step and desired handoff"
+
