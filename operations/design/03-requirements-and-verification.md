@@ -24,6 +24,8 @@
 | R12 | I | Human review effort is bounded and source-linked | Can a reviewer make the relevant decision without losing caveats? |
 | R13 | I | Active-work discoverability and conflict handling | Can two agents work concurrently without silently overwriting each other? |
 | R14 | I | Indexes and state views expose staleness and canonical sources | Can a source revision trigger a detectable review of affected summaries? |
+| R15 | D | Executive/Coordination is a top-level responsibility for information/context transfer, cross-domain issue ownership, role gaps and dispatch | Can unassigned issues be found and routed without the executive role taking over substantive scientific or constitutional decisions? |
+| R16 | I | Responsibility boundaries and escalation paths are explicit, rather than assumed to be duties of every agent | Do cross-domain objections reach the correct reviewing responsibility, survive context loss, and remain distinguishable from binding amendments? |
 
 ## Proposed verification families (not performed)
 1. **Startup/recovery:** fresh agent with finite context, absent prior chat, only repository + task ID.
