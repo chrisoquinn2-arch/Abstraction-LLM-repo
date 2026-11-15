@@ -1,18 +1,18 @@
-# tests — directory index
+# Institutional verification
+[Operations](../README.md) · [Integration scenarios](integration-scenarios.md) · [Forum tests](../../forum/tests/README.md)
 
-**Purpose:** Verification of startup, cooperation, recovery and maintenance.  
-**Expected material:** Test scenarios, runs, outcomes and limitations.  
-**Status:** Bootstrap scaffold; no contents approved by creating this index.  
-**Parent:** [../README.md](../README.md) · **Authority:** [CHARTER.md](../../CHARTER.md).
+**Status:** design scenarios and static checker; **no independent human walkthrough, live multi-agent run, or Gate 1 success is claimed**. Reproducible test evidence must link to exact commit/PR and observable effects.
 
-## Context and current contents
+## Available executable structural verification
+Run `python3 tools/check_repository.py` from repository root (Python 3.10+ standard library). The validator checks existence of local Markdown links and every directory's README and parent index. It checks **structure**, not whether law was legitimately amended or a researcher acted intelligently.
 
-This directory is a structural placeholder under outset task 1. It does not create or adopt a new policy, role, study or operational capability.
+## Required integrated exercises
+Use [integration-scenarios.md](integration-scenarios.md) to exercise human entry, wrong-domain messages, role reassignment, context loss, authority change, evidence disagreement and index migration with actual GitHub Issues and PRs. Record action links, timings/tool calls, reviewer burden, failed behaviors and alternative explanations. If using a simulation, label it as a simulation.
 
-No subordinate records have yet been indexed here. Entries must be added when resources are legitimately created; do not imply a capability has been implemented merely because a directory exists.
+## Test evidence index
+- [Static checker script](../../tools/check_repository.py): source exists; results pending CI or local execution verification.
+- [Exercise logs](evidence/README.md): no substantive test result yet.
+- [Existing scenarios](../design/01-scenarios.md): design hypotheses, not proof.
 
-## Navigation and maintenance (bootstrap guidance, not adopted protocol)
+**Gate rule:** file scaffolding, descriptions and simulated tests are insufficient to certify an autonomous institution. The Research Director controls the ultimate outset mandate determination.
 
-A fresh agent begins at the repository root, then selects this directory through its parent index. Load only the relevant records and check their status and authority. When creating, changing, moving, or retiring contents, update this index and parent links, preserve provenance, and flag affected references or permissions. Record objections, contradictory evidence, or proposals to change this organization through the appropriate design/review route rather than silently declaring them adopted.
-
-The full local maintenance and consolidation procedure is **not yet validated or approved**. Skills, roles, and child indexes should remain discoverable within finite context; propose subdivision or merger if navigation, cohesion, or review burden deteriorates.

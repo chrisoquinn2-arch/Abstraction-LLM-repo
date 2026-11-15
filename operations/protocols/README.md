@@ -1,13 +1,9 @@
-# Operational protocols — scaffold
+# Operational procedures — local to Operations
+[Operations](../README.md) · **Status:** candidates undergoing testing.
 
-**Parent:** [operations](../README.md) · **Authority:** [CHARTER.md](../../CHARTER.md) · **Status:** index only; **no adopted operational protocol is present here**.
+- [Repository structure and context lifecycle](repository-maintenance.md): actual steps for creating, revising, migrating and retiring indexed content.
+- [Restart skill](../skills/recover-session.md): finite-context recovery from canonical issues/files.
+- [Verification](../tests/README.md): what has been exercised, and what remains uncertain.
 
-## Purpose and contents
+Governing authorization, amendment classification and review sit in [Governance protocols](../../governance/protocols/README.md), not inside these runbooks. Operations maintains execution mechanics and cost evidence, and raises normative questions through the [forum](../../forum/README.md).
 
-This directory is reserved for task-executable operational protocols once they are designed, compared with alternatives, verified, and approved. Later indexes should list when each protocol applies, which skills realize it, authority, and version/status.
-
-The earlier failed draft is preserved separately at [legacy protocols](../../protocols/README.md). Its presence does not impose operative standards.
-
-## Maintenance (bootstrap guidance)
-
-Start at the repository root and navigate through the parent index. On addition, revision, splitting, merger, or retirement, update this index, dependents, and status references. Record objections and proposals, including contradictions with approved rules, without silently presenting them as approved. A verified maintenance procedure is not yet available.

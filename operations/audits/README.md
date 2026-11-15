@@ -1,18 +1,9 @@
-# audits — directory index
+# Operations audits
+[Operations](../README.md) · [Tests](../tests/README.md) · [Governance reviews](../../governance/reviews/README.md)
 
-**Purpose:** Operational compliance, robustness and maintenance audits.  
-**Expected material:** Review records, discrepancy reports and audit evidence.  
-**Status:** Bootstrap scaffold; no contents approved by creating this index.  
-**Parent:** [../README.md](../README.md) · **Authority:** [CHARTER.md](../../CHARTER.md).
+**Scope:** structural integrity, discoverability, stale role state, backlog gaps, skill failures, human participation costs, context and maintenance overhead. This is different from governance's authority judgments or research's evidence audits.
 
-## Context and current contents
+**Entry:** run the optional static checker and inspect open Issues/PRs; note failures with specific source URL, owner and priority. [Current audit gaps](../tests/README.md) remain open. Do not mark workflow robustness verified from a successful link check.
 
-This directory is a structural placeholder under outset task 1. It does not create or adopt a new policy, role, study or operational capability.
+**Maintainer:** Operations role; Executive ensures unowned findings are routed. **Status:** prototype, no executed audit report under this index yet.
 
-No subordinate records have yet been indexed here. Entries must be added when resources are legitimately created; do not imply a capability has been implemented merely because a directory exists.
-
-## Navigation and maintenance (bootstrap guidance, not adopted protocol)
-
-A fresh agent begins at the repository root, then selects this directory through its parent index. Load only the relevant records and check their status and authority. When creating, changing, moving, or retiring contents, update this index and parent links, preserve provenance, and flag affected references or permissions. Record objections, contradictory evidence, or proposals to change this organization through the appropriate design/review route rather than silently declaring them adopted.
-
-The full local maintenance and consolidation procedure is **not yet validated or approved**. Skills, roles, and child indexes should remain discoverable within finite context; propose subdivision or merger if navigation, cohesion, or review burden deteriorates.
