@@ -9,7 +9,11 @@
 
 This directory is a structural placeholder under outset task 1. It does not create or adopt a new policy, role, study or operational capability.
 
-No subordinate records have yet been indexed here. Entries must be added when resources are legitimately created; do not imply a capability has been implemented merely because a directory exists.
+## Records
+
+- [2026-11-14 four-domain responsibility model](2026-11-14-four-domain-responsibility-model.md) — **provisional design direction**, not binding delegated authority or an approved operating protocol. Records why executive/coordination was added and what still needs testing.
+
+This is a design-decision index; the existence of a recorded direction does not make it ratified governance law.
 
 ## Navigation and maintenance (bootstrap guidance, not adopted protocol)
 
