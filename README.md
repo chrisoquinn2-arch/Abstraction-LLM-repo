@@ -16,6 +16,8 @@
 | [governance/](governance/README.md) | Authority, rule design, principles, deliberation, delegation, decisions and approvals | Governance index |
 | [operations/](operations/README.md) | Operational designs, skills, roles, state, coordination, testing, audits and execution | Operations index |
 | [research/](research/README.md) | Extensible topic hierarchy and shared scientific resources | Research index; currently unpopulated |
+| [forum/](forum/README.md) | **Proposed shared discussion entry** for humans and agents through GitHub Issues | Forum index, comment and submission instructions |
+| [GitHub configuration](.github/README.md) | Browser issue templates and their maintenance | Interface index |
 | [protocols/](protocols/README.md) | **Legacy unadopted draft only**, kept pending migration or archival decision | Legacy draft warning |
 
 ## Bootstrap entry contract
