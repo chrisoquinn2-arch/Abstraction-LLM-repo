@@ -12,6 +12,7 @@ This directory is a structural placeholder under outset task 1. It does not crea
 ## Indexed review material
 
 - [Independent prototype audit brief — 2026-11-14](2026-11-14-independent-prototype-audit-brief.md): Advisory requirements and verification concerns for the Work-mode integrated research-institution prototype. **Not an audit of Work's outputs, approved governance, or gate approval.**
+- [Governance audit disposition — PR #1 (2026-11-14)](2026-11-14-pr1-governance-disposition.md): **Auditor rejection/return for revision** of commit `4694e601`, with blocking provenance, human-interface, persistence, cross-store authority, and trust-boundary findings. Not a director ratification or closure of Outset Task 1.
 
 New review artifacts must be indexed with their authority, status and disposition. This directory does not yet contain an implemented approval queue or review automation.
 
