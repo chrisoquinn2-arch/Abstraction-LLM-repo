@@ -14,6 +14,7 @@
 | Area | Purpose | What to read first |
 | --- | --- | --- |
 | [governance/](governance/README.md) | Authority, rule design, principles, deliberation, delegation, decisions and approvals | Governance index |
+| [executive/](executive/README.md) | **Proposed** accountable coordination across departments, persistent roles and unowned work | Executive index |
 | [operations/](operations/README.md) | Operational designs, skills, roles, state, coordination, testing, audits and execution | Operations index |
 | [research/](research/README.md) | Extensible topic hierarchy and shared scientific resources | Research index; currently unpopulated |
 | [protocols/](protocols/README.md) | **Legacy unadopted draft only**, kept pending migration or archival decision | Legacy draft warning |
